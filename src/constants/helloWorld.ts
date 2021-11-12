@@ -1,0 +1,18 @@
+export const helloWorld = [
+  "Hello World!",
+  "Halo Dunia!",
+  "你好，世界！",
+  "Hola Mundo!",
+  "안녕 세계!",
+  "Bonjour le monde!",
+  "हैलो वर्ल्ड!",
+  "مرحبا بالعالم!",
+  "こんにちは世界！",
+  "Привет, мир!",
+  "สวัสดีชาวโลก!",
+  "Hej världen!",
+  "Chào thế giới!",
+  "Γειά σου Κόσμε!",
+  "Hallo Welt!",
+  "שלום עולם!",
+];
